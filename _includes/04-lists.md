@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+My favorite things:
+
+* reading books
+* finance
+* helping people
