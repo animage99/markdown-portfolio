@@ -1,5 +1,5 @@
 My favorite things:
 
-* reading books
-* finance
-* helping people
+* reading books :books:
+* finance :bank:
+* helping people :star2:
